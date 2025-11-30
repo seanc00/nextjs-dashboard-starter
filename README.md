@@ -39,6 +39,7 @@ Everything is written using clean code, stable libraries, and predictable archit
 
 ## 🗂️ Project Structure
 
+```bash
 my-dashboard/
 │
 ├── prisma/
@@ -66,6 +67,7 @@ my-dashboard/
 │
 ├── middleware.ts                    # Protects dashboard routes using JWT token
 └── README.md
+
 
 ---
 
