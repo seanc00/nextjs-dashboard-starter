@@ -68,7 +68,7 @@ my-dashboard/
 ├── middleware.ts                    # Protects dashboard routes using JWT token
 └── README.md
 
-
+```
 ---
 
 ## 🛠️ Tech Stack
